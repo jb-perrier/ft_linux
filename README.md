@@ -1,4 +1,4 @@
-This rough tutorial use Virtualbox.
+This project will create a custom linux distribution, we will use Virtualbox.
 
 Create a virtual machine and install ubuntu on it, allocate 35 gigabytes.
 Allocate a second storage disk with 40 gigabytes and add it to the virtual machine.
