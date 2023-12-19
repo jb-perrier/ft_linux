@@ -11,7 +11,7 @@ Once your VM is correctly setup, start the ubuntu VM and execute this script :
 ```sh
 sudo apt update
 sudo apt install -y curl
-curl -o ~/start.sh https://github.com/jb-perrier/ft_linux/start.sh
+curl -o ~/start.sh https://raw.githubusercontent.com/jb-perrier/ft_linux/main/start.sh
 sudo chmod +x ~/start.sh
 bash ~/start.sh
 ```
