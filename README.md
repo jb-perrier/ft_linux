@@ -9,6 +9,7 @@ This storage will contains ur custom linux image.
 Once your VM is correctly setup, start the ubuntu VM and execute this script :
 
 ```sh
+sudo apt update
 sudo apt install -y curl
 curl -o ~/start.sh https://github.com/jb-perrier/ft_linux/start.sh
 sudo chmod +x ~/start.sh
